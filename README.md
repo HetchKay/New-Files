@@ -20,6 +20,6 @@ Shows new files created or modified since the specified date.
 
 6. Again enter in the Directory field the specific folder or location from which files needs to be filtered and click "Get Live Data".
 
-7. In The tabular column â€œAâ€ displays the foler or file name or locaion , column â€œBâ€ displays the date and time the particular file or folder was last modified, column â€œCâ€ displays the specified time since when the files are being filtered.
+7. In The tabular column A displays the foler or file name or locaion , column B displays the date and time the particular file or folder was last modified, column C displays the specified time since when the files are being filtered.
 
-8. Press â€œEXITâ€ to close the window. 
+8. Press EXIT to close the window. 
